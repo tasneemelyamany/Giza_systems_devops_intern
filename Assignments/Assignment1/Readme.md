@@ -18,7 +18,7 @@
 
 ```bash
 # Download the script
-wget 
+wget https://github.com/tasneemelyamany/Giza_systems_devops_intern/blob/main/Assignments/Assignment1/tasnim_task.sh
 
 # Make it executable
 chmod +x task
